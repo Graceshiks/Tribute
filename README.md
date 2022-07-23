@@ -1,5 +1,11 @@
 # Tribute
 Dr norman tribute
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 <main id="main">
   <div id="img-div">
     <img src="" style="display:block; max-width:100%;" id="image"/>
@@ -17,3 +23,5 @@ Dr norman tribute
           
 <h1 id="title">Dr. Norman Borlaug</h1>
   </main>
+</body>
+</html>
